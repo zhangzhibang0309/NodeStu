@@ -5,11 +5,6 @@ const message = "你好啊"
 
 
 // 创建buffer
-
-// 1.创建方式1，不过已经弃用
-// const buffer = new Buffer(message)
-
-// 2. 创建方式2
 const buffer = Buffer.from(message,'utf16le')
 
 

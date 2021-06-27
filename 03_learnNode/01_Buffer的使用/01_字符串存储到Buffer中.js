@@ -6,7 +6,7 @@ const message = "hello"
 // 创建buffer
 
 // 2.创建方式1，不过已经弃用
-// const buffer = new Buffer(message)
+const buffer = new Buffer(message)
 
 // 2. 创建方式2
 const buffer = Buffer.from(message)
