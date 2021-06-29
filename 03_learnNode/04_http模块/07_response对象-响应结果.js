@@ -7,6 +7,6 @@ const server = http.createServer((req, res) => {
   // 相当于直接res.end("响应结果一")
 });
 
-server.listen(1123, "0.0.0.0 ", () => {
+server.listen(1123, "0.0.0.0", () => {
   console.log("服务器启动成功~");
 });
