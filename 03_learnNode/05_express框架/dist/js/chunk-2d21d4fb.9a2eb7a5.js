@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21d4fb"],{d180:function(t,e,n){"use strict";n.r(e);var r=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[t._v(" 单独的路由 "),n("div",[n("Button",{staticStyle:{"margin-left":"100px"},attrs:{type:"primary"},on:{click:t.reback}},[t._v("返回")])],1)])},c=[],a={name:"other",methods:{reback:function(){this.$router.back()}}},i=a,o=n("2877"),u=Object(o["a"])(i,r,c,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d21d4fb.9a2eb7a5.js.map

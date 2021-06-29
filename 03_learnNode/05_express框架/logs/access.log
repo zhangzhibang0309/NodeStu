@@ -1,0 +1,6 @@
+::1 - - [29/Jun/2021:15:56:06 +0000] "POST /home HTTP/1.1" 404 144 "-" "PostmanRuntime/7.28.1"
+::1 - - [29/Jun/2021:15:56:09 +0000] "POST /home HTTP/1.1" 404 144 "-" "PostmanRuntime/7.28.1"
+::1 - - [29/Jun/2021:15:56:17 +0000] "GET /home HTTP/1.1" 200 - "-" "PostmanRuntime/7.28.1"
+::1 - - [29/Jun/2021:15:56:29 +0000] "GET /home HTTP/1.1" 200 - "-" "PostmanRuntime/7.28.1"
+::1 - - [29/Jun/2021:15:56:36 +0000] "GET /home HTTP/1.1" 200 - "-" "PostmanRuntime/7.28.1"
+::1 - - [29/Jun/2021:16:13:45 +0000] "GET /products/1/catalina HTTP/1.1" 404 158 "-" "PostmanRuntime/7.28.1"
