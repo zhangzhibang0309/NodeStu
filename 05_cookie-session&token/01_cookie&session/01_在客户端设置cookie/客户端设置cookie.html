@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button id="btn">添加cookie</button>
+
+    <script>
+        document.getElementById('btn').onclick = function() {
+            // 设置内存cookie
+            // document.cookie = 'name=kobe'
+            // 设置硬盘cookie 有到期时间
+            document.cookie = 'name=kobe;max-age=10'
+        }
+    </script>
+</body>
+
+</html>
